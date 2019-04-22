@@ -45,6 +45,6 @@ Permissions:
 * Commercial use
 * Modification
 * Distribution
-* Private us
+* Private use
 
 
